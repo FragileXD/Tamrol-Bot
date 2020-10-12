@@ -382,3 +382,5 @@ Picture of random dog.
 
 
 Licensed under : [MIT LICENSE](LICENSE)
+
+[![Run on Repl.it](https://repl.it/badge/github/tamrol077/Tito-Bot)](https://repl.it/repls/SkyblueMortifiedRobots#bot.py)
